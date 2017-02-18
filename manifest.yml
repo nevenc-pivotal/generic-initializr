@@ -1,0 +1,6 @@
+---
+applications:
+- name: generic-initializr
+  memory: 1G
+  host: generic-initializr
+  path: initializr-service/target/initializr-service.jar

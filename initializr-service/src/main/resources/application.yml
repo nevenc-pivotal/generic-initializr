@@ -1153,3 +1153,14 @@ initializr:
     - name: 1.1.12
       id: 1.1.12.RELEASE
       default: false
+  groupId:
+    value: io.generic
+  artifactId:
+    value: demo
+  name:
+    value: demo
+  description:
+    value: Generic Demo project for Spring Boot
+  packageName:
+    value: io.generic
+  
